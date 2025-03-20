@@ -1,6 +1,7 @@
 
 check live demo: https://eswarsaikiran.vercel.app/
 
+
 # 🛒 E-Commerce Website
 
 A simple and responsive **E-Commerce Website** built using **HTML, CSS, and JavaScript**. This project provides users with a seamless shopping experience, including product browsing, cart management, and checkout.
